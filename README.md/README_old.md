@@ -25,7 +25,7 @@ Miglioramento del servizio (registrazione vocale): la chiamata potrà essere reg
 Base giuridica:consenso dell’interessato (art.6, par.1, lett.a ).
 
 I dati personali forniti verranno trattati per organizzare, gestire e monitorare la partecipazione al webinar. Questo include la gestione dell’iscrizione, l’invio di promemoria e la comunicazione di eventuali modifiche.
-Con il suo consenso, i dati di contatto da lei forniti potranno essere utilizzati per inviarle comunicazioni commerciali in merito a servizi affini. Il trattamento per questa finalità comprende la possibilità, da parte del titolare, di contattarla tramite telefono,SMS, Whatsapp.
+Con il suo consenso, i dati di contatto da lei forniti potranno essere utilizzati per inviarle comunicazioni commerciali in merito a servizi affini. Il trattamento per questa finalità comprende la possibilità, da parte del titolare, di contattarla tramite telefono,SMS, email, Whatsapp.
 Base giuridica: Consenso esplicito (art.6, par.1, lett a) GDPR).
 Adempimento di obblighi legali o eventuali richieste da parte di autorità competenti
 Base giuridica: obbligo legale (art.6, par.1, lett.c.)
@@ -93,7 +93,7 @@ Diritto di opposizione al trattamento;
 Diritto di revocare il consenso prestato, senza pregiudicare la liceità del trattamento basata sul consenso prima della revoca;
 Diritto alla portabilità dei dati;
 Diritto di proporre reclamo all’Autorità Garante per la protezione dei dati personali (www.garanteprivacy.it).
-Le richieste vanno inviate a: {email@Titolare} _________________
+Le richieste vanno inviate a: info@ilpassosuccessivo.it
 Il Titolare risponde entro 1 mese (termine estendibile a 3 mesi in caso di complessità).
 10. Conseguenze del mancato conferimento dei dati
 Il conferimento è facoltativo; senza i consensi richiesti (privacy + registrazione per miglioramento), la chiamata non verrà effettuata. Ciò non pregiudica la possibilità di partecipare al webinar, se regolarmente iscritto.
